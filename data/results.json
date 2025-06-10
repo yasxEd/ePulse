@@ -1,0 +1,210 @@
+[
+  {
+    "id": "e7e88ea0-c0d3-450e-b1be-500ea21b0a8f",
+    "wpm": 23,
+    "accuracy": 93,
+    "timestamp": 1741270870811,
+    "textLength": 44,
+    "duration": 23.372
+  },
+  {
+    "id": "2c09a788-407b-496f-b5ec-d1ffcb2b99ae",
+    "wpm": 23,
+    "accuracy": 93,
+    "timestamp": 1741270870809,
+    "textLength": 44,
+    "duration": 23.37
+  },
+  {
+    "id": "58a1dc06-4d0b-41a2-bb3e-1c4d4cc1c7c5",
+    "wpm": 28,
+    "accuracy": 93,
+    "timestamp": 1749497819727,
+    "textLength": 44,
+    "duration": 18.744
+  },
+  {
+    "id": "d2b41c21-a8d9-4e5f-8b39-c377b256306a",
+    "wpm": 28,
+    "accuracy": 93,
+    "timestamp": 1749497819726,
+    "textLength": 44,
+    "duration": 18.743
+  },
+  {
+    "id": "40645530-0c05-4215-a854-a37e9ec2758e",
+    "wpm": 23,
+    "accuracy": 93,
+    "timestamp": 1749562694551,
+    "textLength": 44,
+    "duration": 23.057
+  },
+  {
+    "id": "246751ee-cf67-4935-8bb0-bf4be6b00190",
+    "wpm": 23,
+    "accuracy": 93,
+    "timestamp": 1749562694548,
+    "textLength": 44,
+    "duration": 23.054
+  },
+  {
+    "id": "c4c82afb-e5a0-4299-9fca-3bd5ff244444",
+    "wpm": 26,
+    "accuracy": 95,
+    "timestamp": 1749564255980,
+    "textLength": 44,
+    "duration": 20.219
+  },
+  {
+    "id": "2b8ffbd5-1626-4641-95ea-d8e2aa468e22",
+    "wpm": 26,
+    "accuracy": 95,
+    "timestamp": 1749564255979,
+    "textLength": 44,
+    "duration": 20.218
+  },
+  {
+    "id": "705727ff-d23b-4ff3-8df9-5acb95e8603d",
+    "wpm": 26,
+    "accuracy": 98,
+    "timestamp": 1749565105808,
+    "textLength": 44,
+    "duration": 20.525
+  },
+  {
+    "id": "c6b6bb95-3578-488c-b390-3db8919a906a",
+    "wpm": 26,
+    "accuracy": 98,
+    "timestamp": 1749565105807,
+    "textLength": 44,
+    "duration": 20.524
+  },
+  {
+    "id": "329eb006-7db3-4919-9436-653eaef9fab4",
+    "wpm": 13,
+    "accuracy": 100,
+    "timestamp": 1749570562281,
+    "textLength": 44,
+    "duration": 42.007
+  },
+  {
+    "id": "51cd7be3-3b20-4dfc-9ec3-6963325cca1b",
+    "wpm": 13,
+    "accuracy": 100,
+    "timestamp": 1749570562279,
+    "textLength": 44,
+    "duration": 42.005
+  },
+  {
+    "id": "81428f11-d353-4d64-9892-8e26c0c5b966",
+    "wpm": 31,
+    "accuracy": 82,
+    "timestamp": 1749571232800,
+    "textLength": 44,
+    "duration": 16.863
+  },
+  {
+    "id": "3bdf8db7-9eb9-45a0-86cb-995df10e823d",
+    "wpm": 31,
+    "accuracy": 82,
+    "timestamp": 1749571232798,
+    "textLength": 44,
+    "duration": 16.861
+  },
+  {
+    "id": "d8a4a45a-d110-4c85-b938-7f283b8dfcc5",
+    "wpm": 23,
+    "accuracy": 93,
+    "timestamp": 1749571677437,
+    "textLength": 44,
+    "duration": 22.648
+  },
+  {
+    "id": "24f29823-7132-4e65-9e6b-1c78448827b2",
+    "wpm": 23,
+    "accuracy": 93,
+    "timestamp": 1749571677434,
+    "textLength": 44,
+    "duration": 22.645
+  },
+  {
+    "id": "a86bf087-d57d-48c8-a033-eae631cf8cae",
+    "wpm": 28,
+    "accuracy": 82,
+    "timestamp": 1749571827458,
+    "textLength": 44,
+    "duration": 18.957
+  },
+  {
+    "id": "ddade30e-e129-4275-94e7-7c5540457a61",
+    "wpm": 28,
+    "accuracy": 82,
+    "timestamp": 1749571827456,
+    "textLength": 44,
+    "duration": 18.955
+  },
+  {
+    "id": "675ab4b1-7efa-4045-8c3c-c13c7fde1322",
+    "wpm": 40,
+    "accuracy": 100,
+    "timestamp": 1749583122714,
+    "textLength": 44,
+    "duration": 13.301
+  },
+  {
+    "id": "8f0ecf1a-bd0b-4197-8ff6-8e944b696813",
+    "wpm": 40,
+    "accuracy": 100,
+    "timestamp": 1749583122714,
+    "textLength": 44,
+    "duration": 13.301
+  },
+  {
+    "id": "fd07ee9f-e8ac-4937-8d91-91b5c744d820",
+    "wpm": 23,
+    "accuracy": 98,
+    "timestamp": 1749589407118,
+    "textLength": 44,
+    "duration": 23.262
+  },
+  {
+    "id": "db188983-3eed-4d09-b442-d9e82b227f7c",
+    "wpm": 23,
+    "accuracy": 98,
+    "timestamp": 1749589407116,
+    "textLength": 44,
+    "duration": 23.26
+  },
+  {
+    "id": "1d8e15d3-b8ce-424c-ac41-7084f2f26a6d",
+    "wpm": 32,
+    "accuracy": 95,
+    "timestamp": 1749589555310,
+    "textLength": 44,
+    "duration": 16.754
+  },
+  {
+    "id": "2adcb906-1c6b-4973-b8c2-3f965e483ce2",
+    "wpm": 32,
+    "accuracy": 95,
+    "timestamp": 1749589555311,
+    "textLength": 44,
+    "duration": 16.755
+  },
+  {
+    "id": "98c91de8-78cd-489a-9c51-e5b13a90cdb5",
+    "wpm": 30,
+    "accuracy": 98,
+    "timestamp": 1749589751255,
+    "textLength": 44,
+    "duration": 17.698
+  },
+  {
+    "id": "77357ab6-4000-45d0-b10e-95f455397730",
+    "wpm": 30,
+    "accuracy": 98,
+    "timestamp": 1749589751255,
+    "textLength": 44,
+    "duration": 17.698
+  }
+]

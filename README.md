@@ -68,6 +68,20 @@ ePulse is a modern, feature-rich typing platform designed to help users improve 
   </tr>
 </table>
 
+## 📊 Demo
+
+<div align="center">
+  <video width="800" controls>
+    Your browser does not support the video tag.
+  </video>
+
+https://github.com/user-attachments/assets/0ef21ca3-0c3d-4aa1-bca8-4613ed3ca19c
+
+
+</div>
+
+*Experience ePulse in action - smooth typing interface with real-time feedback*
+
 ## 🛠️ Tech Stack
 
 - **Frontend Framework**: React 18 with TypeScript
@@ -88,6 +102,7 @@ ePulse is a modern, feature-rich typing platform designed to help users improve 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/yourusername/epulse.git
+   
    cd epulse
    ```
 
@@ -103,7 +118,7 @@ ePulse is a modern, feature-rich typing platform designed to help users improve 
 
 4. **Open your browser**
    ```
-   http://localhost:5173
+   http://localhost:3000
    ```
 
 ### Build for Production
@@ -111,17 +126,6 @@ ePulse is a modern, feature-rich typing platform designed to help users improve 
 ```bash
 npm run build
 ```
-
-## 📊 Demo
-
-<div align="center">
-  <video width="800" controls>
-    <source src="./public/assets/demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</div>
-
-*Experience ePulse in action - smooth typing interface with real-time feedback*
 
 ## 🎯 Usage
 
@@ -172,7 +176,5 @@ graph LR
 <div align="center">
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-<img src="https://img.shields.io/github/license/yourusername/epulse?style=for-the-badge&color=brightgreen" alt="MIT License">
 
 </div>
